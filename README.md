@@ -21,12 +21,12 @@ The system is expected to achieve high accuracy in detecting fraudulent transact
 ## Installation:
   Clone the repository:
 ```bash
-git clone https://github.com/Harsh04100/Real-time-AI-powered-Anomaly-Detection-For-Financial-Transaction.git
+git clone https://github.com/Harsh04100/AI-Anomaly-Detection-For-Financial-Transaction.git
 ```
 
 Navigate to the project directory:
 ```bash
-cd Real-time-AI-powered-Anomaly-Detection-For-Financial-Transaction
+cd AI-Anomaly-Detection-For-Financial-Transaction
 ```
 
 Install the required dependencies:
